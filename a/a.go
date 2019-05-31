@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/go-modules-by-example/submodules/b"
-	"github.com/go-modules-by-example/submodules/c"
+	"github.com/Brian-Williams/submodules/b"
+	"github.com/Brian-Williams/submodules/c"
 	"fmt"
 )
 
